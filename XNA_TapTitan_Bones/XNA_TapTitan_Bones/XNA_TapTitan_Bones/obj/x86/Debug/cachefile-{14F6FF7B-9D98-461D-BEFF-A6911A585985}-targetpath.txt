@@ -1,0 +1,10 @@
+Content\AyyLmao\thumb-filthy-frank.xnb
+Content\AyyLmao\maxresdefault.xnb
+Content\AyyLmao\8324.xnb
+Content\AyyLmao\sound.xnb
+Content\AyyLmao\walk_sprite.xnb
+Content\AyyLmao\fish.fw.xnb
+Content\AyyLmao\fish.xnb
+Content\SpriteFont1.xnb
+Content\AyyLmao\buton.xnb
+Content\AyyLmao\bike.fw.xnb

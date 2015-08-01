@@ -1,0 +1,16 @@
+C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\bin\x86\Debug\Content\AyyLmao\thumb-filthy-frank.xnb
+C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\bin\x86\Debug\Content\AyyLmao\maxresdefault.xnb
+C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\bin\x86\Debug\Content\AyyLmao\8324.xnb
+C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\bin\x86\Debug\Content\AyyLmao\sound.xnb
+C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\bin\x86\Debug\Content\AyyLmao\walk_sprite.xnb
+C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\bin\x86\Debug\XNA_TapTitan_Bones.exe
+C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\bin\x86\Debug\XNA_TapTitan_Bones.pdb
+C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\obj\x86\Debug\XNA_TapTitan_Bones.exe
+C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\obj\x86\Debug\XNA_TapTitan_Bones.pdb
+C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\bin\x86\Debug\Content\AyyLmao\fish.fw.xnb
+C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\bin\x86\Debug\Content\AyyLmao\fish.xnb
+C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\obj\x86\Debug\XNA_TapTitan_Bones.csprojResolveAssemblyReference.cache
+C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\bin\x86\Debug\Content\AyyLmao\buton.xnb
+C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\bin\x86\Debug\Content\AyyLmao\bike.fw.xnb

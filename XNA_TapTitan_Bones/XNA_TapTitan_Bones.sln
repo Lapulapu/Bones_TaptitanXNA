@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNA_TapTitan_Bones", "XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones.csproj", "{F4F6C42A-C2A8-48AF-B446-C5C2848ADE5C}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "XNA_TapTitan_BonesContent", "XNA_TapTitan_Bones\XNA_TapTitan_BonesContent\XNA_TapTitan_BonesContent.contentproj", "{14F6FF7B-9D98-461D-BEFF-A6911A585985}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4F6C42A-C2A8-48AF-B446-C5C2848ADE5C}.Debug|x86.ActiveCfg = Debug|x86
+		{F4F6C42A-C2A8-48AF-B446-C5C2848ADE5C}.Debug|x86.Build.0 = Debug|x86
+		{F4F6C42A-C2A8-48AF-B446-C5C2848ADE5C}.Release|x86.ActiveCfg = Release|x86
+		{F4F6C42A-C2A8-48AF-B446-C5C2848ADE5C}.Release|x86.Build.0 = Release|x86
+		{14F6FF7B-9D98-461D-BEFF-A6911A585985}.Debug|x86.ActiveCfg = Debug|x86
+		{14F6FF7B-9D98-461D-BEFF-A6911A585985}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
