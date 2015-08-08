@@ -19,7 +19,7 @@ namespace XNA_TapTitan_Bones
             get { return texture.Width / FrameWidth; }
         }
 
-        public int FrameWidth { get { return texture.Width/4; } }
+        public int FrameWidth { get { return texture.Width/7; } }
         public int FrameHeight { get { return texture.Height; } }
 
         public Animation(Texture2D texture, float frameTime, bool isLooping)

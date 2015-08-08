@@ -101,6 +101,7 @@ namespace XNA_TapTitan_Bones
         public void Draw(GameTime gameTime, SpriteBatch spriteBatch)
         {
             spriteBatch.Draw(buttonTexture, buttonRectangle, buttonColor);
+            
         }
 
         public bool hitImage(float tx, float ty, Texture2D texture, int x, int y)

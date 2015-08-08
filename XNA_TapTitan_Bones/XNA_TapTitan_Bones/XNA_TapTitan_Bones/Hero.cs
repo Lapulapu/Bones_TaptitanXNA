@@ -31,14 +31,14 @@ namespace XNA_TapTitan_Bones
         public void LoadContent()
         {
 
-            player = content.Load<Texture2D>("AyyLmao/fish");
-            bike = content.Load<Texture2D>("AyyLmao/bike.fw");
+            player = content.Load<Texture2D>("AyyLmao/termon_attack.fw");
+            bike = content.Load<Texture2D>("AyyLmao/termon_attack2.fw");
 
             idleAnimation = new Animation(player, 0.1f, true);
             bikeAnimation = new Animation(player, 0.1f, true);
 
             int positionX = (Level.windowWidth / 2) - (player.Width / 2);
-            int positionY = (Level.windowHeight / 2) - (player.Height / 3);
+            int positionY = (Level.windowHeight / 2) - (player.Height / 4);
             playerPosition = new Vector2((float)positionX, (float)positionY);
             spritePlayer.PlayAnimation(idleAnimation);
 
@@ -48,7 +48,7 @@ namespace XNA_TapTitan_Bones
             if (level.mouseState.LeftButton == ButtonState.Pressed)
             {
                 playerPosition.X = 400;
-                spritePlayer.PlayAnimation(new Animation(content.Load<Texture2D>("AyyLmao/bike.fw"), 0.1f, true));
+                spritePlayer.PlayAnimation(new Animation(content.Load<Texture2D>("AyyLmao/termon_attack2.fw"), 0.1f, true));
 
             }
             if (level.mouseState.RightButton == ButtonState.Pressed)

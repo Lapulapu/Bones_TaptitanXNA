@@ -24,6 +24,9 @@ namespace XNA_TapTitan_Bones
 
 
         Hero hero;
+        Support supp;
+        Enemy enemy;
+
 
         SpriteFont damageStringFont;
 
@@ -36,6 +39,10 @@ namespace XNA_TapTitan_Bones
             this.content = content;
 
             hero = new Hero(content, this);
+
+            supp = new Support(content, this);
+
+            enemy = new Enemy(content, this);
         }
 
         public void LoadContent()
@@ -46,6 +53,9 @@ namespace XNA_TapTitan_Bones
             playButton = new Button(content, "AyyLmao/buton", new Vector2(325,100));
             
             hero.LoadContent();
+            supp.LoadContent();
+            enemy.LoadContent();
+
         }
 
         public void Update(GameTime gameTime)
@@ -58,6 +68,8 @@ namespace XNA_TapTitan_Bones
             mpressed = mouseState.LeftButton == ButtonState.Pressed;
 
             hero.Update(gameTime);
+            supp.Update(gameTime);
+            enemy.Update(gameTime);
 
             oldMouseState = mouseState;
             if(playButton.Update(gameTime, mouseX, mouseY, mpressed, prev_mpressed))
@@ -72,6 +84,8 @@ namespace XNA_TapTitan_Bones
 
             spriteBatch.Draw(background, Vector2.Zero, Color.White);
             hero.Draw(gameTime, spriteBatch);
+            supp.Draw(gameTime, spriteBatch);
+            enemy.Draw(gameTime, spriteBatch);
             playButton.Draw(gameTime, spriteBatch);
             spriteBatch.DrawString(damageStringFont, damageNumber+"Damage", Vector2.Zero, Color.Wheat);
             if(true)

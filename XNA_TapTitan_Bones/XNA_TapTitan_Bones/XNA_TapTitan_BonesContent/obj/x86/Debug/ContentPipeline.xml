@@ -65,22 +65,13 @@
       <Time>2015-08-01T08:41:35.8736727+08:00</Time>
     </Item>
     <Item>
-      <Source>SpriteFont1.spritefont</Source>
-      <Name>SpriteFont1</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
-      <Time>2015-07-18T08:50:38.9404584+08:00</Time>
-    </Item>
-    <Item>
       <Source>AyyLmao\buton.png</Source>
       <Name>AyyLmao\buton</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\bin\x86\Debug\Content\AyyLmao\buton.xnb</Output>
-      <Time>2015-07-25T09:54:43.4333031+08:00</Time>
+      <Time>2015-08-08T09:06:29.9237212+08:00</Time>
     </Item>
     <Item>
       <Source>AyyLmao\bike.fw.png</Source>
@@ -90,6 +81,78 @@
       <Options>None</Options>
       <Output>C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\bin\x86\Debug\Content\AyyLmao\bike.fw.xnb</Output>
       <Time>2015-07-25T09:54:47.7343609+08:00</Time>
+    </Item>
+    <Item>
+      <Source>AyyLmao\agumon_attack.fw.png</Source>
+      <Name>AyyLmao\agumon_attack.fw</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\bin\x86\Debug\Content\AyyLmao\agumon_attack.fw.xnb</Output>
+      <Time>2015-08-08T08:56:10.5073208+08:00</Time>
+    </Item>
+    <Item>
+      <Source>AyyLmao\agumon_attack2.fw.png</Source>
+      <Name>AyyLmao\agumon_attack2.fw</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\bin\x86\Debug\Content\AyyLmao\agumon_attack2.fw.xnb</Output>
+      <Time>2015-08-08T09:26:05.2974526+08:00</Time>
+    </Item>
+    <Item>
+      <Source>AyyLmao\termon_attack2.fw.png</Source>
+      <Name>AyyLmao\termon_attack2.fw</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\bin\x86\Debug\Content\AyyLmao\termon_attack2.fw.xnb</Output>
+      <Time>2015-08-08T09:26:25.1615888+08:00</Time>
+    </Item>
+    <Item>
+      <Source>AyyLmao\termon_attack.fw.png</Source>
+      <Name>AyyLmao\termon_attack.fw</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\bin\x86\Debug\Content\AyyLmao\termon_attack.fw.xnb</Output>
+      <Time>2015-08-08T09:32:50.4956286+08:00</Time>
+    </Item>
+    <Item>
+      <Source>AyyLmao\agumon_jump.fw.png</Source>
+      <Name>AyyLmao\agumon_jump.fw</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\bin\x86\Debug\Content\AyyLmao\agumon_jump.fw.xnb</Output>
+      <Time>2015-08-08T09:38:39.3125798+08:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2015-07-18T08:50:38.9404584+08:00</Time>
+    </Item>
+    <Item>
+      <Source>AyyLmao\gallantmon_attack.fw.png</Source>
+      <Name>AyyLmao\gallantmon_attack.fw</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\bin\x86\Debug\Content\AyyLmao\gallantmon_attack.fw.xnb</Output>
+      <Time>2015-08-08T10:38:01.2489648+08:00</Time>
+    </Item>
+    <Item>
+      <Source>AyyLmao\gallantmon_attack2.fw.png</Source>
+      <Name>AyyLmao\gallantmon_attack2.fw</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Pictures\XNA_TapTitan_Bones\XNA_TapTitan_Bones\XNA_TapTitan_Bones\bin\x86\Debug\Content\AyyLmao\gallantmon_attack2.fw.xnb</Output>
+      <Time>2015-08-08T10:38:07.8043397+08:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

@@ -5,6 +5,13 @@ Content\AyyLmao\sound.xnb
 Content\AyyLmao\walk_sprite.xnb
 Content\AyyLmao\fish.fw.xnb
 Content\AyyLmao\fish.xnb
-Content\SpriteFont1.xnb
 Content\AyyLmao\buton.xnb
 Content\AyyLmao\bike.fw.xnb
+Content\AyyLmao\agumon_attack.fw.xnb
+Content\AyyLmao\agumon_attack2.fw.xnb
+Content\AyyLmao\termon_attack2.fw.xnb
+Content\AyyLmao\termon_attack.fw.xnb
+Content\AyyLmao\agumon_jump.fw.xnb
+Content\SpriteFont1.xnb
+Content\AyyLmao\gallantmon_attack.fw.xnb
+Content\AyyLmao\gallantmon_attack2.fw.xnb
